@@ -3,4 +3,4 @@ This repository contains the projects done during my UCL MSc Machine Learning co
 
 Folder content:
 
-СОМР0078 - First coursework for the module СОМР0078
+СОМР0078CW1 - First coursework for the module СОМР0078
