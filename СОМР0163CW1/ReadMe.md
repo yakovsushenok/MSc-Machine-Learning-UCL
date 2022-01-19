@@ -1,0 +1,1 @@
+First coursework of the module СОМР0163 Blockchain Technologies. In this coursework I wrote a smart contract in DAML "DAMLCW.pdf" (an open-source smart contract language) as well as a smart contract in Solidity "SmartContract.sol", "SolCW.pdf".
