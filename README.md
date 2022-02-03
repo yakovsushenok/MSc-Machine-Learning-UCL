@@ -10,3 +10,5 @@ Folder content:
 СОМР0163CW1 - First coursework of the module СОМР0163 Blockchain Technologies. In this coursework I wrote a smart contract in DAML "DAMLCW.pdf" (an open-source smart contract language) as well as a smart contract in Solidity "SmartContract.sol", "SolCW.pdf".
 
 СОМР0163CW2 - First coursework of the module СОМР0163 Blockchain Technologies. In this group coursework we develop a smart contract for options and analyze them in the context of Decentralized Exchanges. 
+
+СОМР0090CW1 - First coursework of the module СОМР0090 Deep Learning. In this coursework I implement a stochastic gradient descent algorithm, a DenseNet and implement an ablation study.
