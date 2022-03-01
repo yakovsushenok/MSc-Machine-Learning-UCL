@@ -12,3 +12,5 @@ Folder content:
 СОМР0163CW2 - First coursework of the module СОМР0163 Blockchain Technologies. In this group coursework we develop a smart contract for options and analyze them in the context of Decentralized Exchanges. 
 
 СОМР0090CW1 - First coursework of the module СОМР0090 Deep Learning. In this coursework I implement a stochastic gradient descent algorithm, a DenseNet and implement an ablation study.
+
+COMP0081CW1 - First coursework of the module COMP0081. Here I implemented a classification and regression tree, adaboost and random forest from scratch. 
