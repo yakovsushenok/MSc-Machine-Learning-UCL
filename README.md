@@ -16,3 +16,5 @@ Folder content:
 COMP0081CW1 - First coursework of the module COMP0081. Here I implemented a classification and regression tree, adaboost and random forest from scratch. 
 
 COMP0080CW - The principles of Inference and Learning were applied in the problems of double earthquakes, meeting scheduling and weather stations’ data sampling. The encoding and decoding of LDPC-codes, using Loopy Belief Propagation for Binnary Symmetric Channel, was explored. Exact inference, the Mean Field Approximation and Gibbs Sampling were applied, to find the joint probability distribution of the Ising model on a 10 by 10 lattice. 
+
+RandomForests.ipynb - First Coursework of COMP0081
