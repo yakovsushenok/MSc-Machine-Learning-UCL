@@ -19,4 +19,6 @@ COMP0080CW - The principles of Inference and Learning were applied in the proble
 
 RandomForests.ipynb - First Coursework of COMP0081
 
-СОМР0084CW1 - First Coursework of the module СОМР0084. Here I implemented an inverted index. Using the index, I ranked groups of passages to certain queries using the Cosine Similarity and BM25 Metric. I also use Laplace Smoothing, Lidstone correction and Dirchlet Smoothing.
+СОМР0084CW1 - First coursework of the module СОМР0084. Here I implemented an inverted index. Using the index, I ranked groups of passages to certain queries using the Cosine Similarity and BM25 Metric. I also use Laplace Smoothing, Lidstone correction and Dirchlet Smoothing.
+
+СОМР0084CW2 - Second coursework of the module СОМР0084. Here I implemented various algorithms which evaluated passage-ranking algorithms. Some of the algorithms include Logistic regression, Neural Network and LambdaMart.
