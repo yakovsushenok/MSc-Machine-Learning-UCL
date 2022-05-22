@@ -15,10 +15,12 @@ Folder content:
 
 COMP0081CW1 - First coursework of the module COMP0081. Here I implemented a classification and regression tree, adaboost and random forest from scratch. 
 
-COMP0080CW - The principles of Inference and Learning were applied in the problems of double earthquakes, meeting scheduling and weather stations’ data sampling. The encoding and decoding of LDPC-codes, using Loopy Belief Propagation for Binnary Symmetric Channel, was explored. Exact inference, the Mean Field Approximation and Gibbs Sampling were applied, to find the joint probability distribution of the Ising model on a 10 by 10 lattice. 
+COMP0080CW - Coursework for the module COMP0080 Graphical Models. The principles of Inference and Learning were applied in the problems of double earthquakes, meeting scheduling and weather stations’ data sampling. The encoding and decoding of LDPC-codes, using Loopy Belief Propagation for Binnary Symmetric Channel, was explored. Exact inference, the Mean Field Approximation and Gibbs Sampling were applied, to find the joint probability distribution of the Ising model on a 10 by 10 lattice. 
 
-RandomForests.ipynb - First Coursework of COMP0081
+RandomForests.ipynb - First Coursework of COMP0081 Applied Machine Learning.
 
-СОМР0084CW1 - First coursework of the module СОМР0084. Here I implemented an inverted index. Using the index, I ranked groups of passages to certain queries using the Cosine Similarity and BM25 Metric. I also use Laplace Smoothing, Lidstone correction and Dirchlet Smoothing.
+СОМР0084CW1 - First coursework of the module СОМР0084 Information Retrieval and Data Mining. Here I implemented an inverted index. Using the index, I ranked groups of passages to certain queries using the Cosine Similarity and BM25 Metric. I also use Laplace Smoothing, Lidstone correction and Dirchlet Smoothing.
 
-СОМР0084CW2 - Second coursework of the module СОМР0084. Here I implemented various algorithms which evaluated passage-ranking algorithms. Some of the algorithms include Logistic regression, Neural Network and LambdaMart.
+СОМР0084CW2 - Second coursework of the module СОМР0084 Information Retrieval and Data Mining. Here I implemented various algorithms which evaluated passage-ranking algorithms. Some of the algorithms include Logistic regression, Neural Network and LambdaMart.
+
+COMP0089 - Coursework for the module COMP0089 Reinforcement Learning. Here I implement various RL algorithms such as bandits, Temporal Difference Learning and Monte Carlo.
